@@ -2,5 +2,5 @@
 
 ### Associated with Northeastern University
 
-- __Course__: Foundations to Data Mining
-- Professor: Dr. Sivarit (Tony) Sultornsanee
+- Course: __Foundations to Data Mining__
+- Professor: __Dr. Sivarit (Tony) Sultornsanee__
