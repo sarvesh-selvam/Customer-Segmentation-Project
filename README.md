@@ -1,2 +1,3 @@
-# Customer_Segmentation_for_e-Commerce_Businesses
+# Customer Segmentation for e-Commerce Businesses
+
 Associated with Northeastern University
