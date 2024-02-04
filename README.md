@@ -1,6 +1,6 @@
 # Customer Segmentation for e-Commerce Businesses
 
-### Associated with Northeastern University
+Associated with Northeastern University
 
-- Course: __Foundations to Data Mining__
-- Professor: __Dr. Sivarit (Tony) Sultornsanee__
+- __Course__: Foundations to Data Mining
+- __Professor__: Dr. Sivarit (Tony) Sultornsanee
